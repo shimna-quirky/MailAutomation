@@ -1,0 +1,12 @@
+/Users/anoopsinkaran/Mail/TestingMail/Framework/bin/Debug/net5.0/Framework.deps.json
+/Users/anoopsinkaran/Mail/TestingMail/Framework/bin/Debug/net5.0/Framework.dll
+/Users/anoopsinkaran/Mail/TestingMail/Framework/bin/Debug/net5.0/ref/Framework.dll
+/Users/anoopsinkaran/Mail/TestingMail/Framework/bin/Debug/net5.0/Framework.pdb
+/Users/anoopsinkaran/Mail/TestingMail/Framework/obj/Debug/net5.0/Framework.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anoopsinkaran/Mail/TestingMail/Framework/obj/Debug/net5.0/Framework.AssemblyInfoInputs.cache
+/Users/anoopsinkaran/Mail/TestingMail/Framework/obj/Debug/net5.0/Framework.AssemblyInfo.cs
+/Users/anoopsinkaran/Mail/TestingMail/Framework/obj/Debug/net5.0/Framework.csproj.CoreCompileInputs.cache
+/Users/anoopsinkaran/Mail/TestingMail/Framework/obj/Debug/net5.0/Framework.dll
+/Users/anoopsinkaran/Mail/TestingMail/Framework/obj/Debug/net5.0/ref/Framework.dll
+/Users/anoopsinkaran/Mail/TestingMail/Framework/obj/Debug/net5.0/Framework.pdb
+/Users/anoopsinkaran/Mail/TestingMail/Framework/obj/Debug/net5.0/Framework.csproj.AssemblyReference.cache

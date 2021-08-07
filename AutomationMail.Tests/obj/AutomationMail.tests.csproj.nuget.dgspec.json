@@ -1,0 +1,200 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail.Tests/AutomationMail.tests.csproj": {}
+  },
+  "projects": {
+    "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail.Tests/AutomationMail.tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail.Tests/AutomationMail.tests.csproj",
+        "projectName": "AutomationMail.tests",
+        "projectPath": "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail.Tests/AutomationMail.tests.csproj",
+        "packagesPath": "/Users/anoopsinkaran/.nuget/packages/",
+        "outputPath": "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail.Tests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anoopsinkaran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/AutomationMail.csproj": {
+                "projectPath": "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/AutomationMail.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.9.4, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.1, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[3.17.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/AutomationMail.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/AutomationMail.csproj",
+        "projectName": "AutomationMail",
+        "projectPath": "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/AutomationMail.csproj",
+        "packagesPath": "/Users/anoopsinkaran/.nuget/packages/",
+        "outputPath": "/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anoopsinkaran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {
+              "/Users/anoopsinkaran/Mail/TestingMail/Framework/Framework.csproj": {
+                "projectPath": "/Users/anoopsinkaran/Mail/TestingMail/Framework/Framework.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/anoopsinkaran/Mail/TestingMail/Framework/Framework.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/anoopsinkaran/Mail/TestingMail/Framework/Framework.csproj",
+        "projectName": "Framework",
+        "projectPath": "/Users/anoopsinkaran/Mail/TestingMail/Framework/Framework.csproj",
+        "packagesPath": "/Users/anoopsinkaran/.nuget/packages/",
+        "outputPath": "/Users/anoopsinkaran/Mail/TestingMail/Framework/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/anoopsinkaran/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "dependencies": {
+            "Selenium.Support": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            },
+            "Selenium.WebDriver": {
+              "target": "Package",
+              "version": "[3.141.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

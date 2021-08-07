@@ -1,0 +1,47 @@
+﻿<Properties StartupConfiguration="{1EAD6710-B46A-4B24-BA8E-BDFBE7995F76}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Framework/Selenium/Driver.cs">
+    <Files>
+      <File FileName="AutomationMail.Tests/LogInTest.cs" Line="11" Column="35" />
+      <File FileName="AutomationMail/Pages/LogInPage.cs" Line="77" Column="1" />
+      <File FileName="AutomationMail/Pages/BasePage.cs" Line="11" Column="29" />
+      <File FileName="Framework/Selenium/Driver.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MailAutomation" expanded="True">
+            <Node name="AutomationMail" expanded="True">
+              <Node name="Pages" expanded="True" />
+            </Node>
+            <Node name="AutomationMail.tests" expanded="True" />
+            <Node name="Framework" expanded="True">
+              <Node name="Selenium" expanded="True">
+                <Node name="Driver.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="MailAutomation" expanded="True">
+            <Node name="AutomationMail.tests" expanded="True">
+              <Node name="AutomationMail.tests" expanded="True">
+                <Node name="Tests" expanded="True">
+                  <Node name="LogInTest" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.ItemProperties.AutomationMail.tests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

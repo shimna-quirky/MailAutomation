@@ -1,0 +1,15 @@
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/bin/Debug/net5.0/AutomationMail.deps.json
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/bin/Debug/net5.0/AutomationMail.dll
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/bin/Debug/net5.0/ref/AutomationMail.dll
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/bin/Debug/net5.0/AutomationMail.pdb
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/bin/Debug/net5.0/Framework.dll
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/bin/Debug/net5.0/Framework.pdb
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/obj/Debug/net5.0/AutomationMail.csproj.AssemblyReference.cache
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/obj/Debug/net5.0/AutomationMail.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/obj/Debug/net5.0/AutomationMail.AssemblyInfoInputs.cache
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/obj/Debug/net5.0/AutomationMail.AssemblyInfo.cs
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/obj/Debug/net5.0/AutomationMail.csproj.CoreCompileInputs.cache
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/obj/Debug/net5.0/AutomationMail.csproj.CopyComplete
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/obj/Debug/net5.0/AutomationMail.dll
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/obj/Debug/net5.0/ref/AutomationMail.dll
+/Users/anoopsinkaran/Mail/TestingMail/AutomationMail/obj/Debug/net5.0/AutomationMail.pdb
