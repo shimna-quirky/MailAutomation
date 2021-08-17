@@ -1,0 +1,9 @@
+{
+    "driver": {
+
+        "browser": "Chrome"
+    },
+    "test": {
+        "url": "https://au.yahoo.com"
+    }
+}
